@@ -1,0 +1,12 @@
+[
+    {
+        "id": "METRO_NSMS1",
+        "type": "overmap_terrain",
+        "name": "Reich Station",
+        "sym": "R",
+        "color": "white",
+        "see_cost": 10,
+        "mondensity": 2
+    }
+        
+]

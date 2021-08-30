@@ -1,0 +1,12 @@
+[
+    {
+        "id": "MGS_STATION1",
+        "type": "overmap_terrain",
+        "name": "Contested Station",
+        "sym": "^",
+        "color": "yellow",
+        "see_cost": 10,
+        "mondensity": 2
+    }
+        
+]

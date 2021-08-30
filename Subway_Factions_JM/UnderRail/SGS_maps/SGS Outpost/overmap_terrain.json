@@ -1,0 +1,12 @@
+[
+    {
+        "id": "SGS_STATIONPOST1",
+        "type": "overmap_terrain",
+        "name": "South Gate Outpost",
+        "sym": "^",
+        "color": "blue",
+        "see_cost": 10,
+        "mondensity": 2
+    }
+        
+]

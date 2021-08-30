@@ -1,0 +1,12 @@
+[
+    {
+        "id": "SGS_CAVE1",
+        "type": "overmap_terrain",
+        "name": "Underrail Cave",
+        "sym": "^",
+        "color": "red",
+        "see_cost": 10,
+        "mondensity": 2
+    }
+        
+]
